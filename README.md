@@ -50,7 +50,7 @@ During the initial stages, the system failed to communicate. The following hardw
 * **Solution:** Implemented **CAN RX Interrupts**. The BluePill now stays in a low-load state and only processes data when a specific Message ID (0x123) is detected, mimicking a real ECU's behavior.
 
 ---
-![System Diagram Draw](assets/hardware-prototype.jpeg)
+![System Diagram Draw](assets/system-architecture.jpeg)
 ![System Diagram](assets/hardware-prototype.jpeg)
 
 ---
