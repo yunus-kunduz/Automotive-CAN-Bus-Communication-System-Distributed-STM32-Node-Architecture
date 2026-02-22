@@ -51,7 +51,7 @@ During the initial stages, the system failed to communicate. The following hardw
 
 ---
 
-![System Diagram](assets/genel_sema.jpeg)
+![System Diagram](assets/hardware-prototype.jpeg)
 
 ---
 
