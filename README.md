@@ -1,10 +1,10 @@
 # Automotive CAN-Bus Communication: Distributed STM32 Node Architecture
 
-This project implements a robust **CAN-Bus 2.0B** communication network between two different STM32 families (**F401RE Nucleo** as Master and **F103C6 BluePill** as Diagnostic Node). The system utilizes an interrupt-driven architecture to simulate real-time automotive data transmission, such as engine RPM and temperature.
+This project implements a robust **CAN-Bus 2.0B** communication network between two different STM32 families (**F103RBT6 Nucleo** as Master and **F103C8T6 BluePill** as Diagnostic Node). The system utilizes an interrupt-driven architecture to simulate real-time automotive data transmission, such as engine RPM and temperature.
 
 ## 🛠️ Hardware Components
-* **Master Node:** STM32F401RE Nucleo-64.
-* **Diagnostic Node:** STM32F103C6 BluePill.
+* **Master Node:** STM32F103RBT6 Nucleo-64.
+* **Diagnostic Node:** STM32F103C8T6 BluePill.
 * **Transceivers:** 2x SN65HVD230 CAN Transceivers.
 * **Programmer:** On-board ST-LINK v2.1 (from Nucleo).
 
