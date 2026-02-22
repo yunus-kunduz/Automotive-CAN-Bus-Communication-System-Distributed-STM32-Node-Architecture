@@ -51,6 +51,10 @@ During the initial stages, the system failed to communicate. The following hardw
 
 ---
 
+![System Diagram](assets/genel_sema.png)
+
+---
+
 ## 📊 Features
 * **Baud Rate:** 125 kbps with optimized Sampling Point (%88).
 * **Event-Driven:** LED toggling based on successful CAN frame reception.
